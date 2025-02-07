@@ -22,7 +22,7 @@ and
 
 ## 💻 Technologies that I use
 <a href="https://github.com/mederic-mth" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mederic-mth&theme=holi" alt="Top Langs" align="right" width="300" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mederic-mth&theme=holi&?cache=${timestamp}" alt="Top Langs" align="right" />
 </a>
 
 <div>
@@ -61,8 +61,8 @@ and
 ## 📂 Repositories
 <br/>
 <div align="center" width="100%">
-  <a title="Repository - Portfolio" href="https://github.com/mederic-mth/portfolio"><img align="center" width="40%" alt="Repository - Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=portfolio&theme=holi"></a>‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
-  <a title="Repository - FreeCodeCamp Projects" href="https://github.com/mederic-mth/freecodecamp-projects"><img align="center" width="40%" alt="Repository - FreeCodeCamp Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=freecodecamp-projects&theme=holi"></a>
+  <a title="Repository - Portfolio" href="https://github.com/mederic-mth/portfolio"><img align="center" width="40%" alt="Repository - Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=portfolio&theme=holi&?cache=${timestamp}"></a>
+  <a title="Repository - FreeCodeCamp Projects" href="https://github.com/mederic-mth/freecodecamp-projects"><img align="center" width="40%" alt="Repository - FreeCodeCamp Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=freecodecamp-projects&theme=holi&?cache=${timestamp}"></a>
 </div>
 
 <!------------------------------------------------->
