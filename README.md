@@ -59,11 +59,12 @@ and
 <!------------------------------------------------->
 
 ## 📂 Repositories
-<br/>
 <div align="center" width="100%">
-  <a title="Repository - Portfolio" href="https://github.com/mederic-mth/portfolio"><img align="center" width="40%" alt="Repository - Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=portfolio&theme=holi&?cache=${timestamp}"></a>
-  <a title="Repository - FreeCodeCamp Projects" href="https://github.com/mederic-mth/freecodecamp-projects"><img align="center" width="40%" alt="Repository - FreeCodeCamp Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=freecodecamp-projects&theme=holi&?cache=${timestamp}"></a>
+  <a title="Repository - Portfolio" href="https://github.com/mederic-mth/portfolio" align="left"><img alt="Repository - Portfolio" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=portfolio&theme=holi&?cache=${timestamp}"></a>
+  <a title="Repository - FreeCodeCamp Projects" href="https://github.com/mederic-mth/freecodecamp-projects" align="right"><img alt="Repository - FreeCodeCamp Projects" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mederic-mth&repo=freecodecamp-projects&theme=holi&?cache=${timestamp}"></a>
 </div>
+
+<br><br><br><br><br><br><br/>
 
 <!------------------------------------------------->
 
