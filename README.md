@@ -31,7 +31,6 @@ and
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="23">
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&amp;logo=css3&amp;logoColor=white" alt="CSS3" height="23">
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" height="23">
-<img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="23">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&amp;logo=WordPress&amp;logoColor=white" alt="WordPress" height="23">
 <img src="https://img.shields.io/badge/Wix-000?style=flat&amp;logo=wix&amp;logoColor=white" alt="Wix" height="23">
 
@@ -39,11 +38,9 @@ and
 <img src="https://img.shields.io/badge/Windows%20Servers-0078D6?style=flat&amp;logo=windows&amp;logoColor=white" alt="Windows Servers" height="23">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux" height="23">
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&amp;logo=Raspberry-Pi" alt="Raspberry Pi" height="23">
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker" height="23">
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&amp;logo=vmware&amp;logoColor=white" alt="VMware" height="23">
 <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=flat&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" height="23">
 <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&amp;logo=apache&amp;logoColor=white" alt="Apache" height="23">
-<img src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=flat&amp;logo=nextcloud&amp;logoColor=white" alt="Next Cloud" height="23">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB" height="23">
 
 ### 🛠️ Tools
@@ -51,10 +48,16 @@ and
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub" height="23">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code" height="23">
 <img src="https://img.shields.io/badge/Photopea-18A497.svg?style=flat&amp;logo=photopea&amp;logoColor=white" alt="Photopea" height="23">
-<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&amp;logo=blender&amp;logoColor=white" alt="Blender" height="23">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&amp;logo=notion&amp;logoColor=white" alt="Notion" height="23">
 
 </div>
+
+<!-- For later 
+<img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="23">
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker" height="23">
+<img src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=flat&amp;logo=nextcloud&amp;logoColor=white" alt="Next Cloud" height="23">
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&amp;logo=blender&amp;logoColor=white" alt="Blender" height="23">
+-->
 
 <!------------------------------------------------->
 
