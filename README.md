@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mederic-mth&theme=holi&?cache=${timestamp}" alt="Top Langs" align="right" />
 </a>
 
-- 👨‍💻 I'm Médéric, a 21-years-old developer from <img src="assets/images/french-flag.png" alt="French flag" width="13"/> <b>Le Mans, France</b>.
 - 🎓 I am a graduate of a French two-year IT degree (BTS SIO), with a focus on IT Systems and Network Administration (SISR).
 - 🚀 I'm constantly learning and improving my programming skills through hands-on projects by following the
 <a href="https://www.freecodecamp.org" title="https://www.freecodecamp.org"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23.svg?&amp;style=flat&amp;logo=freecodecamp&amp;logoColor=white" alt="FreeCodeCamp" align="center"></a>
