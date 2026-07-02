@@ -12,15 +12,7 @@
 - 🚀 I'm constantly learning and improving my programming skills through hands-on projects by following the
 <a href="https://www.freecodecamp.org" title="https://www.freecodecamp.org"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23.svg?&amp;style=flat&amp;logo=freecodecamp&amp;logoColor=white" alt="FreeCodeCamp" align="center"></a>
 curriculum, and using resources like
-<a href="https://www.w3schools.com" title="https://www.w3schools.com"><img src="https://img.shields.io/badge/W3Schools-04AA6D.svg?style=flat&amp;logo=w3schools&amp;logoColor=white" alt="W3Schools" align="center"></a>
-and
-<a href="https://www.theodinproject.com" title="https://www.theodinproject.com"><img src="https://img.shields.io/badge/The_Odin_Project-A9792B.svg?style=flat&amp;logo=theodinproject&amp;logoColor=white" alt="The Odin Project" align="center"></a>
-!
-
-### 📫 Contact me!
-<a href="mailto:mederic.math.pv@gmail.com" title="mailto:mederic.math.pv@gmail.com"><img src="https://img.shields.io/badge/Gmail-mederic.math.pv@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" align="center"></a>
-
-<a href="https://www.linkedin.com/in/mederic-mathieu" title="https://www.linkedin.com/in/mederic-mathieu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" align="center"></a>
+<a href="https://www.w3schools.com" title="https://www.w3schools.com"><img src="https://img.shields.io/badge/W3Schools-04AA6D.svg?style=flat&amp;logo=w3schools&amp;logoColor=white" alt="W3Schools" align="center"></a> !
 
 
 <!--------------------------------- SKILLS --------------------------------->
